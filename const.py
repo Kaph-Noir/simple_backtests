@@ -30,3 +30,4 @@ class CALENDAR(object):
 
 if __name__ == "__main__":
     print(DEFAULT_SETTING.ENTER_YEAR)
+    print("change")
